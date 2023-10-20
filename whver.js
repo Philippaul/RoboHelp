@@ -121,22 +121,4 @@ if(gbChrome)
 	gbSafari = true ;
 	gbSafari3=true;
 }
-
-if (navigator.appVersion.indexOf ("Edge /")! = -1)
-
-{
-
-gbIE = true;
-
-gbIE4 = true;
-
-gbIE5 = true;
-
-gbIE55 = true;
-
-gbIE10 = true;
-
-}
-
-
 var gbWhVer=true;
